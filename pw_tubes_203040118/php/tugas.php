@@ -14,11 +14,8 @@
 		<div class="container">
 		<h1><a href="dashboard.php">Asrillper Watch</a></h1>
 		<ul>
-			<li><a href="dashboard.php">Dashboard</a></li>
-			<li><a href="profil.php">Profil</a></li>
-			<li><a href="produk.php">Data Produk</a></li>
-			<li><a href="../index.php">Toko</a></li>
-			<li><a href="logout.php">Log Out</a></li>
+			<li><a href="tugas.php">Dashboard</a></li>
+			<li><a href="../index.php">Kembali ke Toko</a></li>
 		</ul>
 		</div>
 	</header>
@@ -28,8 +25,7 @@
 		<div class="container">
 			<h3>Dashboard</h3>
 			<div class="box">
-				<h3>Selamat Datang, Admin!</h3>
-				<br><br>
+				<br>
 				<div class="col-4">
 					<img src="../assets/img/dash.jpg">
 					<h4>Praktikum Pertemuan 1</h4>

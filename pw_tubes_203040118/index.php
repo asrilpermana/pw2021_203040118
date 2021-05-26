@@ -66,9 +66,12 @@ error_reporting(0);
 			<h1 style="font-size: 70px;">Selamat Datang!</h1>
 			<br>
 			<div class="btn-wrapper"></div>
-			<h4>Silahkan Login ke Halaman Admin Untuk Mengakses Tugas Praktikum dan Data Produk.</h4>
+			<h4>Silahkan Login ke Halaman Admin Untuk Mengakses Data Produk.</h4>
+			<h4>atau</h4>
+			<h4>Klik Tombol Dashboard Untuk Melihat Tugas Kelas ataupun Praktikum.</h4>
 			<br>
 			<a href="php/login.php" class="btn">Login</a>
+			<a href="php/tugas.php" class="btn">Dashboard</a>
 		</div>
 	</div>
 
